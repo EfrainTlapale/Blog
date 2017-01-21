@@ -1,41 +1,32 @@
-title: Acerca de mí
+title: About me
 date: 2017-01-04 20:05:43
 ---
 
-JS developer, utilizo NodeJs, ExpressJS, React/Redux, un poco de Vue
+I'm a web developer, mainly focus on JavaScript, but i try to work on other languages like Go or Ruby
 
-Inicié este blog para poder compartir algunos temas sobre programación, desarrollo web y algunas otras cosas random que se me ocurran, mi lenguaje favorito es JavaScript, por lo que los temas que cubriré seran principalmente sobre JS, pero también planeo escribir sobre otros lenguajes.
+I'm kind of a full stack developer, I don't consider myself as an expert in frontend or backend, but more like a Junior dev in both  
 
-El misterioso por qué de escribir un blog se resume en que una de las formas de comprobar si aprendiste algo bien es transmitir ese conociemiento a otras personas, como se que (obviamente) no soy perfecto este también espero que este sea un espacio de retroalimentación a través del cual pueda mejorar como desarrollador y como persona.
+I really like JavaScript, its ecosystem, its libraries and frameworks, my favorites are React (dah) and Vue in the frontend and Express and SocketIO in the backend
 
+In this blog I'm trying to transfer some knowledge and reinforce mine own writing, English, programming skills and understanding   
 
-## Algunos datos inútiles adicionales
+## Some useless data:
 
-### Otros lenguajes:
-* go
-* ruby  
-* python
+### Books:
+* All Isaac Asimov's Work: Foundation, Short Stories ...  
+* Martian Chronicles, Ray Bradbury
 
-### Libros:
-* Saga de la fundación y todos sus cuentos | Isaac Asimov   
-*    Crónicas Marcianas
-
-### Película favorita de todos los tiempos:
+### All time Favorite Movie:
 * Donnie Darko
 
-### Otras películas
-* Star wars (obvio)
-* El fantástico señor zorro
-* Super 8
-* Scott Pilgrim vs The World
-
-### Banda favorita de todos los tiempos:
+### All time favorite band:
 * Led Zeppelin
 
-### Otras bandas:
+### Other bands:
 * Interpol
 * Arctic Monkeys
 * Foo Fighters
+* The Cure
 
 ### NFL:
 * Dallas Cowboys
