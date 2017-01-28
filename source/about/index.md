@@ -14,7 +14,6 @@ In this blog I'm trying to transfer some knowledge and reinforce mine own writin
 
 ### Books:
 * All Isaac Asimov's Work: Foundation, Short Stories ...  
-* Martian Chronicles, Ray Bradbury
 
 ### All time Favorite Movie:
 * Donnie Darko
@@ -26,7 +25,8 @@ In this blog I'm trying to transfer some knowledge and reinforce mine own writin
 * Interpol
 * Arctic Monkeys
 * Foo Fighters
-* The Cure
+* Arcade Fire
+* Justice
 
 ### NFL:
 * Dallas Cowboys

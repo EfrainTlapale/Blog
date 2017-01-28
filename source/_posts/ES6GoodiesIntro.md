@@ -14,19 +14,19 @@ To get started: **What is ES6?**
 
 ES6 or ECMAScript2015 or ES2015 is not the latest version of JavaScript, currently it is the ES7 standard, but ES6 is the one that brings a lot of exciting features to JavaScript
 
-Before ES6 was released, the latest version of a JavaScript standard was ES5 in 2009, which introduced JSON, so, you can realize that there is a gap between releases of 6 years, and as you can imagine it came whit a lot of new features and new ways of doing some things, fortunately, if you are working with ES5 and want to switch to ES6, you won't feel like you're programming in a completely new language, is more like feeling that you're developing with JavaScript on steroids, and to prove that, we're going to start with a simple but powerful feature: **Destructuring Assignment**
+Before ES6 was released, the latest version of a JavaScript standard was ES5 in 2009, which introduced JSON, so, you can see that there is a gap between releases of 6 years, and as you can imagine it came whit a lot of new features and new ways of doing some things, fortunately, if you are working with ES5 and want to switch to ES6, you won't feel like you're programming in a completely new language, is more like feeling that you're programming with JavaScript on steroids, and to prove that, we're going to start with a simple but powerful feature: **Destructuring Assignment**
 
 ---
 
-some variables declarations include the keywords _const_ and _let_, this keywords are going to be explained in another post
+some variables declarations include the keywords _const_ and _let_, these keywords are going to be explained in another post
 
 ---
 
 ## Destructuring Assignment
 
-_Destructuring assignment_ works for Arrays and Objects, but first let's see what it tries to accomplish  
+_Destructuring assignment_ works for Arrays and Objects, but first let's see what it is trying to accomplish  
 
-In ES5 if you wanted to store some values of an array into variables, you have to make something like this:
+In ES5 if you wanted to store some values of an array into variables, you have to do something like this:
 
 ```JS ES5
 var someImportantValues = [1,2,3,4,5]
@@ -60,7 +60,7 @@ You can implement this feature in multiple ways
 ---
 ### Managing multiple return values
 
-let's say we have a function that returns an object that describes your birthday, but at some point you're going to need to manage the day, month, and year separately
+let's say we have a function that returns an object that describes your birthday, but at some point you're going to need to handle the day, month, and year separately
 
 ```JS ES5
 var getBirthDay = function () {
@@ -97,7 +97,7 @@ console.log(day, month, year) //Outputs 12 12 1996
 ---
 ### Swaping variables values
 
-It's a simple thing, change the values of x to the value of y, and the value of y to the value of x
+It's a simple thing, the following code just changes the values of x to the value of y, and the value of y to the value of x
 
 ```JS ES6
 let x = 4
@@ -137,7 +137,7 @@ _The notation {% raw %}$`some text here {variable}`{% endraw %} is going to be c
 
 As we only need certain values from the object parametes, we use _destructuring assignment_ to choose what we need
 
-And this is the implementation in React functional stateless components. We try to keep this type of components as simple as possible, so, you can destruct the props object that it receives.
+And this is the implementation in React _functional stateless components_. We try to keep this type of components as simple as possible, so, you can destruct the props object that it receives.
 
 ```JS ES6 without destructuring
 const Post = (props) => {
