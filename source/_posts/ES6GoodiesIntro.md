@@ -7,7 +7,7 @@ banner:
   url: https://s19.postimg.org/bb7x25fs3/es6features.png
 ---
 
-In this article series we're going to take a look to some of my favorites ES6 features
+Hello, In this article series we're going to take a look to some of my favorites ES6 features
 
 To get started: **What is ES6?**  
 

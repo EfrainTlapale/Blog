@@ -27,6 +27,3 @@ In this blog I'm trying to transfer some knowledge and reinforce mine own writin
 * Foo Fighters
 * Arcade Fire
 * Justice
-
-### NFL:
-* Dallas Cowboys

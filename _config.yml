@@ -5,16 +5,16 @@
 # Site
 title: DevsAndStuff
 subtitle: For devs and geeks
-description: Temas sobre desarrollo web y cosas random
+description: JavaScript and some random things
 author: Efrain Tlapale Pulido
-language: es
+language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://devsandstuff.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :title/
 permalink_defaults:
 
 # Directory
@@ -52,7 +52,7 @@ tag_map:
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
+date_format: ll
 time_format: HH:mm:ss
 
 # Pagination
@@ -68,8 +68,6 @@ theme: overdose
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-- type: git
-  repo: https://github.com/EfrainTlapale/efraintlapale.github.io
 - type: heroku
   repo: https://git.heroku.com/devsandstuff.git
 
